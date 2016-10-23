@@ -1,0 +1,9 @@
+\\Mac\Home\Documents\workspace\CSNET\ShoppingListApi\Domain\bin\Debug\Domain.dll
+\\Mac\Home\Documents\workspace\CSNET\ShoppingListApi\Domain\bin\Debug\Domain.pdb
+\\Mac\Home\Documents\workspace\CSNET\ShoppingListApi\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\workspace\CSNET\ShoppingListApi\Domain\obj\Debug\Domain.dll
+\\Mac\Home\Documents\workspace\CSNET\ShoppingListApi\Domain\obj\Debug\Domain.pdb
+C:\Users\BenningPC\Documents\NET\ShoppingListApi\Domain\bin\Debug\Domain.dll
+C:\Users\BenningPC\Documents\NET\ShoppingListApi\Domain\bin\Debug\Domain.pdb
+C:\Users\BenningPC\Documents\NET\ShoppingListApi\Domain\obj\Debug\Domain.dll
+C:\Users\BenningPC\Documents\NET\ShoppingListApi\Domain\obj\Debug\Domain.pdb
