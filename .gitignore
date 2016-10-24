@@ -16,3 +16,4 @@ packages/
 .DS_Store
 *.mdf
 *.ldf
+App_Data/
